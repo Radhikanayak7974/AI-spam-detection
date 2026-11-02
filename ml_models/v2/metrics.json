@@ -1,0 +1,313 @@
+{
+  "version": "v2",
+  "logistic_regression": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "auc": 1.0,
+    "confusion_matrix": {
+      "tn": 60,
+      "fp": 0,
+      "fn": 0,
+      "tp": 75
+    },
+    "roc_curve": [
+      {
+        "fpr": 0.0,
+        "tpr": 0.0
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.0133
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.04
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.08
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.1067
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.16
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.2667
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.32
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.3467
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.3733
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.4267
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.48
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.4933
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.5333
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.5467
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.5733
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.6267
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.6667
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.7467
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.7867
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.84
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.8667
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.8933
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.9333
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.9867
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.3333,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.4667,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.55,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.75,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.85,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 1.0,
+        "tpr": 1.0
+      }
+    ]
+  },
+  "naive_bayes": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "auc": 1.0,
+    "confusion_matrix": {
+      "tn": 60,
+      "fp": 0,
+      "fn": 0,
+      "tp": 75
+    },
+    "roc_curve": [
+      {
+        "fpr": 0.0,
+        "tpr": 0.0
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.0267
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.0667
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.08
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.1333
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.1467
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.1733
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.2133
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.2667
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.3067
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.36
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.3867
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.4133
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.52
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.56
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.5733
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.6
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.68
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.72
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.7733
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.8133
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.84
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.8533
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.88
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.92
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.9467
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.3333,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.4667,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.5667,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.65,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.85,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 1.0,
+        "tpr": 1.0
+      }
+    ]
+  },
+  "dataset": {
+    "total_samples": 672,
+    "spam_samples": 372,
+    "ham_samples": 300,
+    "feedback_samples_used": 2,
+    "vocab_size": 1100,
+    "train_samples": 537,
+    "test_samples": 135
+  },
+  "trained_at": "2026-11-01T21:17:29.544719+00:00",
+  "status": "promoted",
+  "acceptance": {
+    "promoted": true,
+    "lr_acceptable": true,
+    "nb_acceptable": true,
+    "current_lr_accuracy": 1.0,
+    "candidate_lr_accuracy": 1.0,
+    "current_nb_accuracy": 1.0,
+    "candidate_nb_accuracy": 1.0
+  }
+}

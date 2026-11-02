@@ -1,0 +1,22 @@
+flask==3.0.3
+flask-cors==4.0.1
+flask-sqlalchemy==3.1.1
+sqlalchemy==2.0.35
+python-dotenv==1.0.1
+requests==2.32.3
+google-auth==2.35.0
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+google-api-python-client==2.149.0
+scikit-learn==1.5.2
+pandas==2.2.3
+numpy==1.26.4
+joblib==1.4.2
+Werkzeug==3.0.6
+
+# Phase 3: Background scheduler
+APScheduler==3.10.4
+
+# Phase 3: HTML parsing for email body extraction
+beautifulsoup4==4.15.0
+
